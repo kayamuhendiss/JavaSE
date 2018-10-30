@@ -1,5 +1,7 @@
 package _04.collectionAPI;
 
+import java.util.ArrayList;
+
 public class Notes {
 
 
@@ -96,6 +98,8 @@ public class Notes {
 // java.util.PriorityQueue FIFO (First in First OUT)
 
 //
-
+public static void main(String[] args) {
+    ArrayList<String> isimler = new ArrayList<String>();
+}
 
 }
